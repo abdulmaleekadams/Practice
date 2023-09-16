@@ -6,12 +6,12 @@ A simple web application that demonstrates the drag-and-drop functionality using
 
 ## Table of Contents
 
-- Introduction(#introduction)
-- Features(#features)
-- Usage(#usage)
-- Customization(#customization)
-- Contributing(#contributing)
-- License(#license)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Usage](#usage)
+- [Customization](#customization)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction
 
